@@ -12,6 +12,24 @@ Este projeto foi desenvolvido com o objetivo de analisar e diagnosticar a perda 
 * **DAX** (Criação de métricas de performance e financeiras)
 
 ---
+## 📐 Estrutura do Repositório
+A organização das pastas do projeto segue o padrão estruturado de mercado:
+
+
+├── dados/
+│   ├── brutos/                <-- Dataset original extraído do sistema
+│ └── tratados/              <-- As 4 tabelas finais geradas pós-tratamento
+
+│
+├── notebooks/                 
+│   └── tratamento_dados.ipynb <-- Script Python/Pandas com o processo de ETL
+
+│
+├── dashboard/                 
+│   └── dashboard_churn.pbix   <-- Arquivo do Power BI com o relatório analítico
+└── README.md                  <-- Documentação do projeto
+
+---
 
 ## ⚙️ Processo de ETL e Modelagem Dimensional
 1. Tratamento de Dados (Python & Pandas)
