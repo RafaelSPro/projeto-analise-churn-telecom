@@ -1,4 +1,4 @@
-#📊 Projeto-Analise-Churn-Telecom:: Do tratamento de Dados ao Business Intelligence
+#📊 Projeto-Analise-Churn-Telecom: Do tratamento de Dados ao Business Intelligence
 ---
 ## 🎯 Objetivo do Projeto
 Este projeto foi desenvolvido com o objetivo de analisar e diagnosticar a perda de clientes (**Churn**) em uma empresa do setor de Telecomunicações. A meta foi identificar os principais gargalos que motivam o cancelamento dos serviços e mensurar o impacto financeiro dessas perdas, fornecendo insights estratégicos para os times de negócios e retenção.
